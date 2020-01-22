@@ -1,0 +1,11 @@
+github.com/PaesslerAG/gval v1.0.1 h1:QnCvok0w0Y3uZNxmNmC6GZ0cuBl+jH0tu/rBMT8pso4=
+github.com/PaesslerAG/gval v1.0.1/go.mod h1:y/nm5yEyTeX6av0OfKJNp9rBNj2XrGhAf5+v24IBN1I=
+github.com/PaesslerAG/jsonpath v0.1.0 h1:gADYeifvlqK3R3i2cR5B4DGgxLXIPb3TRTH1mGi0jPI=
+github.com/PaesslerAG/jsonpath v0.1.0/go.mod h1:4BzmtoM/PI8fPO4aQGIusjGxGir2BzcV0grWtFzq1Y8=
+github.com/knieriem/g v0.1.2/go.mod h1:zYg1CmnYJBZ34OwOIRIqoBsvVxbGRjgE4kLQrHz7DBg=
+github.com/knieriem/text v0.7.0 h1:+42x27iwdgL+c8ZEUUBd4E4FTwq6YBx49dIVHcCmlIU=
+github.com/knieriem/text v0.7.0/go.mod h1:nFN1r4dWMNr3tq/iqPWvNubGBcVSV41vH7D5lF0FzUs=
+github.com/knieriem/vfsutil v0.2.0/go.mod h1:Qjc1UuM923HYETrt+FcEyYZU72+xiR3Ilu37BfzSTFs=
+github.com/lionkov/go9p v0.0.0-20180620135904-0a603dd6808a/go.mod h1:Nbrxd4FljESFB/bUvzT5xm1VNO2VfzMKSIv4L++4J4U=
+golang.org/x/sys v0.0.0-20180824143301-4910a1d54f87/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
+golang.org/x/tools v0.0.0-20180824175216-6c1c5e93cdc1/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
