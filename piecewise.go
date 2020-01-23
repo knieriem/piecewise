@@ -10,6 +10,7 @@ func Walk(valRange, nSeg int, mirrorx bool, f WalkFn) error {
 		ix := i + 1
 		if mirrorx {
 			ix = nSeg - ix
+			i = ix
 		}
 		x := float64(ix) / float64(nSeg)
 		err := f(i, dx, x)
